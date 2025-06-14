@@ -1,4 +1,4 @@
-# TP2 Image - Medical CT Scan Analysis for Lung Tumor Detection
+#Medical CT Scan Analysis for Lung Tumor Detection
 
 **Author:** Gharbi Safwen CI 1
 
